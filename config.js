@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "Hello con Chuột",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introTitle: 'Khoái một cái như trên đúng không',
+    introDesc: 'Xem tao làm cho 1 cái nè heh',
+    btnIntro: '???',
     title: 'Ngày 20/10 vui vẻ nha đồ ngốc',
     desc: '',
     btnYes: 'Cảm ơn nhaaaa',
